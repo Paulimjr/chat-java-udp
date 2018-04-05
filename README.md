@@ -1,4 +1,4 @@
-# Chat using Java with UDP.
+# Chat using Java with User Datagram Protocol (UDP).
 - Steps for test
   - Run Server
   - Run JanelaMensagem (One or more)
