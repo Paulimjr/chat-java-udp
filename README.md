@@ -1,7 +1,7 @@
 # Chat using Java with UDP.
 - Steps for test
   - Run Server
-  - Run Client (One or more)
+  - Run JanelaMensagem (One or more)
  
 ![Screenshot](https://github.com/Paulimjr/chat-java-udp/blob/master/src/sd_udp/Sele%C3%A7%C3%A3o_021.png "Slash screen")
   
